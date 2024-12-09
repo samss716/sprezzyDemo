@@ -1,0 +1,1 @@
+Development of first Android Studio Project. Utilization of contraits and other UI principles to create icons and button colors. I implemented a use of binding in order to replace findViewById for more efficient references to views. 
