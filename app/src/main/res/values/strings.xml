@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">sprezzy-demo</string>
+    <string name="Button">Button</string>
+    <string name="cafe_menu">Menu</string>
+    <string name="coffee">Cafe</string>
+    <string name="matcha">Tea</string>
+</resources>
